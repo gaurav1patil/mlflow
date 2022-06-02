@@ -1,0 +1,8 @@
+# export AZURE_STORAGE_CONNECTION_STRING="DefaultEndpointsProtocol=https;AccountName=mlflowstorageaai;AccountKey=Ga8sxz8dCbexGeKjEEHnaRszOzEXULF0YCBDv6QGaEHKU6xW3Qsy7s+1iDfTofjbVnFzzQfAVfbu+AStI9qrrQ==;EndpointSuffix=core.windows.net"
+# export MLFLOW_SERVER_DEFAULT_ARTIFACT_ROOT="wasbs://mlflowcontainer@mlflowstorageaai.blob.core.windows.net"
+# export AZURE_STORAGE_ACCESS_KEY="XVxhw8bLUPtCDx6+YcmzLoXh4l2iPEdsXrCJq9WQL+LBsbXvWxZutOTouOoBVfXInSjoRC2UPISu+ASt7/ouIw=="
+
+export AZURE_STORAGE_CONNECTION_STRING="DefaultEndpointsProtocol=https;AccountName=mlflowstorageaai;AccountKey=Ga8sxz8dCbexGeKjEEHnaRszOzEXULF0YCBDv6QGaEHKU6xW3Qsy7s+1iDfTofjbVnFzzQfAVfbu+AStI9qrrQ==;EndpointSuffix=core.windows.net"
+export MLFLOW_SERVER_DEFAULT_ARTIFACT_ROOT="wasbs://mlflowcontainer@mlflowstorageaai.blob.core.windows.net"
+export AZURE_STORAGE_ACCESS_KEY="XVxhw8bLUPtCDx6+YcmzLoXh4l2iPEdsXrCJq9WQL+LBsbXvWxZutOTouOoBVfXInSjoRC2UPISu+ASt7/ouIw=="
+
